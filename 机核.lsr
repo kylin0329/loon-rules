@@ -1,0 +1,39 @@
+# UpdateTime: 2026-06-28 07:20:47
+# RuleCount: 37
+DOMAIN, smartop-sdkapi.jiguang.cn
+DOMAIN, ali-stats.jpush.cn
+DOMAIN, ce3e75d5.jpush.cn
+DOMAIN, config.jpush.cn
+DOMAIN, gd-stats.jpush.cn
+DOMAIN, tsis.jpush.cn
+DOMAIN, user.jpush.cn
+DOMAIN, jihe.datasink.sensorsdata.cn
+DOMAIN, ye.dun.163yun.com
+DOMAIN, da.anythinktech.com
+DOMAIN, inappcheck.itunes.apple.com
+DOMAIN, api.bridgeoos.com
+DOMAIN, da.bridgeoos.com
+DOMAIN, tk.bridgeoos.com
+DOMAIN, alioss.gcores.com
+DOMAIN, image.gcores.com
+DOMAIN, sentry1.gcores.com
+DOMAIN, www.gcores.com
+DOMAIN, qzs.gdtimg.com
+DOMAIN, file.myqcloud.com
+DOMAIN, e.qq.com
+DOMAIN, gdt.qq.com
+DOMAIN, snowflake.qq.com
+DOMAIN, cgi.connect.qq.com
+DOMAIN, mazu.m.qq.com
+DOMAIN, adsmind.ugdtimg.com
+DOMAIN, pgdt.ugdtimg.com
+DOMAIN, tc.weszxdrf.com
+DOMAIN, id6.me
+IP-CIDR, 1.92.72.199/32, no-resolve
+IP-CIDR, 1.94.136.98/32, no-resolve
+IP-CIDR, 60.204.158.219/32, no-resolve
+IP-CIDR, 119.3.251.25/32, no-resolve
+IP-CIDR, 121.36.196.101/32, no-resolve
+IP-CIDR, 121.37.164.60/32, no-resolve
+IP-CIDR, 139.9.178.8/32, no-resolve
+IP-CIDR, 139.9.202.119/32, no-resolve

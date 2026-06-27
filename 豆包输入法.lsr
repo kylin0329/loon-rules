@@ -1,0 +1,56 @@
+# UpdateTime: 2026-06-28 07:20:47
+# RuleCount: 54
+DOMAIN, zlink.ugsdk.cn
+DOMAIN, mssdk.bytedance.com
+DOMAIN, speech.bytedance.com
+DOMAIN, lf3-effectcdn-tos.byteeffecttos.com
+DOMAIN, frontier100-audio-ime-quic-lf.doubao.com
+DOMAIN, frontier5-audio-ime-ws-lf.doubao.com
+DOMAIN, ime.doubao.com
+DOMAIN, abtest-ch.snssdk.com
+DOMAIN, effect.snssdk.com
+DOMAIN, ichannel.snssdk.com
+DOMAIN, is.snssdk.com
+DOMAIN, log.snssdk.com
+DOMAIN, keyhub.zijieapi.com
+DOMAIN, log.zijieapi.com
+DOMAIN, mon.zijieapi.com
+DOMAIN, tnc0-aliec2.zijieapi.com
+DOMAIN, tnc0-alisc1.zijieapi.com
+DOMAIN, tnc3-bjlgy.zijieapi.com
+DOMAIN, dig.bdurl.net
+IP-CIDR, 61.155.39.77/32, no-resolve
+IP-CIDR, 101.69.139.103/32, no-resolve
+IP-CIDR, 101.71.98.211/32, no-resolve
+IP-CIDR, 101.71.98.213/32, no-resolve
+IP-CIDR, 101.71.98.219/32, no-resolve
+IP-CIDR, 101.71.160.40/31, no-resolve
+IP-CIDR, 101.71.160.51/32, no-resolve
+IP-CIDR, 101.71.160.55/32, no-resolve
+IP-CIDR, 101.71.160.56/31, no-resolve
+IP-CIDR, 101.71.160.58/32, no-resolve
+IP-CIDR, 101.71.160.61/32, no-resolve
+IP-CIDR, 101.71.160.62/32, no-resolve
+IP-CIDR, 101.126.56.149/32, no-resolve
+IP-CIDR, 101.126.56.184/32, no-resolve
+IP-CIDR, 122.14.229.138/32, no-resolve
+IP-CIDR, 122.14.236.20/32, no-resolve
+IP-CIDR, 122.228.60.101/32, no-resolve
+IP-CIDR, 122.228.60.102/31, no-resolve
+IP-CIDR, 122.228.60.104/31, no-resolve
+IP-CIDR, 123.148.125.94/31, no-resolve
+IP-CIDR, 123.148.125.96/32, no-resolve
+IP-CIDR, 123.148.125.98/32, no-resolve
+IP-CIDR, 123.156.199.75/32, no-resolve
+IP-CIDR, 123.156.199.76/32, no-resolve
+IP-CIDR, 123.156.199.90/32, no-resolve
+IP-CIDR, 124.160.174.84/31, no-resolve
+IP-CIDR, 124.160.174.86/32, no-resolve
+IP-CIDR, 124.160.174.89/32, no-resolve
+IP-CIDR, 221.194.130.108/31, no-resolve
+IP-CIDR6, 2001:4860:4860::8888/128, no-resolve
+IP-CIDR6, 2408:8742:31ff:3:8000:0:b00:102/128, no-resolve
+IP-CIDR6, 240e:83:200::15e/128, no-resolve
+IP-CIDR6, 240e:f7:8013:407:3::7f5/128, no-resolve
+IP-CIDR6, 240e:f7:8013:408:3::3fc/128, no-resolve
+IP-CIDR6, 240e:f7:c010:105:3::14/127, no-resolve

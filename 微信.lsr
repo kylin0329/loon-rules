@@ -1,0 +1,332 @@
+# UpdateTime: 2026-06-28 07:20:47
+# RuleCount: 330
+DOMAIN, dns.weixin.qq.com.cn
+DOMAIN, launchwxacode.wxqcloud.qq.com.cn
+DOMAIN, prewxacode.wxqcloud.qq.com.cn
+DOMAIN, csc-apm.sgcc.com.cn
+DOMAIN, csc-open.sgcc.com.cn
+DOMAIN, ec-resource.yto56.com.cn
+DOMAIN, ec-rs-cdn.yto56.com.cn
+DOMAIN, wdgjweb.yto56.com.cn
+DOMAIN, cdn1.dcloud.net.cn
+DOMAIN, mec.yto.net.cn
+DOMAIN, msonline.yto.net.cn
+DOMAIN, online.yto.net.cn
+DOMAIN, thirdwx.qlogo.cn
+DOMAIN, wx.qlogo.cn
+DOMAIN, mmbiz.qpic.cn
+DOMAIN, mmecoa.qpic.cn
+DOMAIN, wework.qpic.cn
+DOMAIN, act.wechatpay.cn
+DOMAIN, gtimg.wechatpay.cn
+DOMAIN, liteappcdn.wechatpay.cn
+DOMAIN, log.wechatpay.cn
+DOMAIN, szshort.mixpay.wechatpay.cn
+DOMAIN, lifeapp.wxpapp.wechatpay.cn
+DOMAIN, servicewechat.com
+DOMAIN, amp-api-edge.apps.apple.com
+DOMAIN, inappcheck.itunes.apple.com
+DOMAIN, b.bdstatic.com
+DOMAIN, cdnjs.cloudflare.com
+DOMAIN, marscc.bcs.cmbchina.com
+DOMAIN, mars.ccc.cmbchina.com
+DOMAIN, netphone.ccc.cmbchina.com
+DOMAIN, weclub.ccc.cmbchina.com
+DOMAIN, r.cc.cmbimg.com
+DOMAIN, p0.map.gtimg.com
+DOMAIN, is1-ssl.mzstatic.com
+DOMAIN, dldir1.qq.com
+DOMAIN, dldir1v6.qq.com
+DOMAIN, map.qq.com
+DOMAIN, mapapi.qq.com
+DOMAIN, weixinconf.qq.com
+DOMAIN, apikey.map.qq.com
+DOMAIN, confinfo.map.qq.com
+DOMAIN, lbs.map.qq.com
+DOMAIN, overseactrl.map.qq.com
+DOMAIN, pr.map.qq.com
+DOMAIN, sdkgw.map.qq.com
+DOMAIN, vectorsdk.map.qq.com
+DOMAIN, finderaly.video.qq.com
+DOMAIN, finderbk.video.qq.com
+DOMAIN, findercsy.video.qq.com
+DOMAIN, finderd1p.video.qq.com
+DOMAIN, finderdma.video.qq.com
+DOMAIN, finderdsp.video.qq.com
+DOMAIN, finderhy.video.qq.com
+DOMAIN, finderks.video.qq.com
+DOMAIN, findermp.video.qq.com
+DOMAIN, finderqv.video.qq.com
+DOMAIN, findertt.video.qq.com
+DOMAIN, finderv1.video.qq.com
+DOMAIN, finderyz.video.qq.com
+DOMAIN, act.weixin.qq.com
+DOMAIN, ae.weixin.qq.com
+DOMAIN, aedns.weixin.qq.com
+DOMAIN, paydns.weixin.qq.com
+DOMAIN, support.weixin.qq.com
+DOMAIN, szextshort.weixin.qq.com
+DOMAIN, szlong.weixin.qq.com
+DOMAIN, szminorshort.weixin.qq.com
+DOMAIN, szquic.weixin.qq.com
+DOMAIN, szreport.weixin.qq.com
+DOMAIN, szshort.weixin.qq.com
+DOMAIN, szsupport.weixin.qq.com
+DOMAIN, szshort.pay.weixin.qq.com
+DOMAIN, res.wx.qq.com
+DOMAIN, wxa.wxs.qq.com
+DOMAIN, wximg.wxs.qq.com
+DOMAIN, wxsmw.wxs.qq.com
+DOMAIN, sh.servicewechat.com
+DOMAIN, umini.shujupie.com
+DOMAIN, szilinkshort.weixin.com
+DOMAIN, badjs.weixinbridge.com
+DOMAIN, aikf.yundasys.com
+DOMAIN, fs-wx.yundasys.com
+DOMAIN, mbpxapi.yundasys.com
+DOMAIN, ydmbpic.yundasys.com
+DOMAIN, cs-external.zt-express.com
+DOMAIN, yidun.zt-express.com
+DOMAIN, connect.zto.com
+DOMAIN, fscdn.zto.com
+DOMAIN, hdgateway.zto.com
+DOMAIN, kf.zto.com
+DOMAIN, kfapi.zto.com
+DOMAIN, membergateway.zto.com
+DOMAIN, q.zto.com
+DOMAIN, toc-consolidation.zto.com
+DOMAIN, uedcdn.zto.com
+DOMAIN, zcat-mini.zto.com
+DOMAIN, zcat-pc.zto.com
+IP-CIDR, 1.13.37.200/32, no-resolve
+IP-CIDR, 1.13.56.182/32, no-resolve
+IP-CIDR, 1.13.56.207/32, no-resolve
+IP-CIDR, 1.56.81.42/32, no-resolve
+IP-CIDR, 1.56.81.117/32, no-resolve
+IP-CIDR, 1.56.81.118/32, no-resolve
+IP-CIDR, 1.56.81.124/32, no-resolve
+IP-CIDR, 14.116.242.250/32, no-resolve
+IP-CIDR, 27.155.112.93/32, no-resolve
+IP-CIDR, 36.248.0.61/32, no-resolve
+IP-CIDR, 36.249.19.55/32, no-resolve
+IP-CIDR, 36.249.76.25/32, no-resolve
+IP-CIDR, 42.4.59.242/32, no-resolve
+IP-CIDR, 42.81.237.103/32, no-resolve
+IP-CIDR, 43.129.138.148/32, no-resolve
+IP-CIDR, 43.129.139.7/32, no-resolve
+IP-CIDR, 43.130.30.74/32, no-resolve
+IP-CIDR, 43.130.30.247/32, no-resolve
+IP-CIDR, 43.146.27.18/32, no-resolve
+IP-CIDR, 43.175.129.30/32, no-resolve
+IP-CIDR, 43.175.144.47/32, no-resolve
+IP-CIDR, 49.7.72.215/32, no-resolve
+IP-CIDR, 49.71.127.51/32, no-resolve
+IP-CIDR, 49.74.132.227/32, no-resolve
+IP-CIDR, 58.212.47.248/32, no-resolve
+IP-CIDR, 58.222.27.181/32, no-resolve
+IP-CIDR, 58.246.44.98/32, no-resolve
+IP-CIDR, 58.251.120.145/32, no-resolve
+IP-CIDR, 58.251.120.149/32, no-resolve
+IP-CIDR, 58.254.173.149/32, no-resolve
+IP-CIDR, 60.12.185.10/32, no-resolve
+IP-CIDR, 60.12.190.210/32, no-resolve
+IP-CIDR, 60.28.172.100/32, no-resolve
+IP-CIDR, 60.29.251.12/30, no-resolve
+IP-CIDR, 60.29.254.179/32, no-resolve
+IP-CIDR, 60.163.142.60/32, no-resolve
+IP-CIDR, 60.188.60.30/32, no-resolve
+IP-CIDR, 61.168.75.18/32, no-resolve
+IP-CIDR, 61.176.201.88/32, no-resolve
+IP-CIDR, 61.176.201.105/32, no-resolve
+IP-CIDR, 61.176.201.113/32, no-resolve
+IP-CIDR, 61.176.201.168/32, no-resolve
+IP-CIDR, 61.176.201.171/32, no-resolve
+IP-CIDR, 61.176.201.177/32, no-resolve
+IP-CIDR, 61.176.201.185/32, no-resolve
+IP-CIDR, 61.176.201.196/32, no-resolve
+IP-CIDR, 61.176.201.235/32, no-resolve
+IP-CIDR, 61.240.31.50/32, no-resolve
+IP-CIDR, 61.241.45.141/32, no-resolve
+IP-CIDR, 61.241.45.159/32, no-resolve
+IP-CIDR, 61.241.55.218/32, no-resolve
+IP-CIDR, 61.241.55.246/32, no-resolve
+IP-CIDR, 61.241.56.14/32, no-resolve
+IP-CIDR, 61.241.56.170/32, no-resolve
+IP-CIDR, 61.241.56.190/32, no-resolve
+IP-CIDR, 61.241.56.197/32, no-resolve
+IP-CIDR, 61.241.56.231/32, no-resolve
+IP-CIDR, 61.241.56.235/32, no-resolve
+IP-CIDR, 101.32.104.104/32, no-resolve
+IP-CIDR, 101.67.0.52/32, no-resolve
+IP-CIDR, 101.67.0.56/32, no-resolve
+IP-CIDR, 101.67.0.64/32, no-resolve
+IP-CIDR, 101.67.0.117/32, no-resolve
+IP-CIDR, 101.68.78.82/32, no-resolve
+IP-CIDR, 101.68.84.242/32, no-resolve
+IP-CIDR, 101.69.99.98/32, no-resolve
+IP-CIDR, 101.69.99.148/32, no-resolve
+IP-CIDR, 101.69.225.6/32, no-resolve
+IP-CIDR, 101.69.254.46/32, no-resolve
+IP-CIDR, 101.71.88.32/32, no-resolve
+IP-CIDR, 106.3.212.34/32, no-resolve
+IP-CIDR, 106.39.206.25/32, no-resolve
+IP-CIDR, 111.31.206.188/32, no-resolve
+IP-CIDR, 111.161.67.84/32, no-resolve
+IP-CIDR, 111.206.147.156/32, no-resolve
+IP-CIDR, 111.206.147.210/32, no-resolve
+IP-CIDR, 111.206.148.27/32, no-resolve
+IP-CIDR, 112.10.135.115/32, no-resolve
+IP-CIDR, 115.228.139.30/32, no-resolve
+IP-CIDR, 116.130.175.71/32, no-resolve
+IP-CIDR, 116.130.175.72/32, no-resolve
+IP-CIDR, 116.130.175.74/32, no-resolve
+IP-CIDR, 116.130.175.77/32, no-resolve
+IP-CIDR, 116.130.175.202/32, no-resolve
+IP-CIDR, 116.130.175.247/32, no-resolve
+IP-CIDR, 116.130.224.150/32, no-resolve
+IP-CIDR, 116.130.224.205/32, no-resolve
+IP-CIDR, 116.131.225.15/32, no-resolve
+IP-CIDR, 116.148.212.216/32, no-resolve
+IP-CIDR, 116.153.4.171/32, no-resolve
+IP-CIDR, 116.153.4.218/32, no-resolve
+IP-CIDR, 116.153.50.186/32, no-resolve
+IP-CIDR, 116.162.38.18/32, no-resolve
+IP-CIDR, 116.162.38.107/32, no-resolve
+IP-CIDR, 116.163.10.28/32, no-resolve
+IP-CIDR, 116.207.169.8/32, no-resolve
+IP-CIDR, 118.212.235.55/32, no-resolve
+IP-CIDR, 118.212.235.56/32, no-resolve
+IP-CIDR, 118.212.235.62/32, no-resolve
+IP-CIDR, 118.212.235.67/32, no-resolve
+IP-CIDR, 118.212.235.71/32, no-resolve
+IP-CIDR, 118.212.235.73/32, no-resolve
+IP-CIDR, 118.212.235.76/32, no-resolve
+IP-CIDR, 118.212.235.82/31, no-resolve
+IP-CIDR, 118.212.235.96/32, no-resolve
+IP-CIDR, 118.212.235.114/32, no-resolve
+IP-CIDR, 118.212.235.123/32, no-resolve
+IP-CIDR, 118.212.235.126/32, no-resolve
+IP-CIDR, 118.212.235.131/32, no-resolve
+IP-CIDR, 118.212.235.142/32, no-resolve
+IP-CIDR, 118.212.236.14/32, no-resolve
+IP-CIDR, 118.212.236.49/32, no-resolve
+IP-CIDR, 119.147.11.68/32, no-resolve
+IP-CIDR, 119.147.19.225/32, no-resolve
+IP-CIDR, 119.188.16.121/32, no-resolve
+IP-CIDR, 119.188.229.62/32, no-resolve
+IP-CIDR, 120.232.51.42/32, no-resolve
+IP-CIDR, 120.232.51.154/32, no-resolve
+IP-CIDR, 120.233.22.42/32, no-resolve
+IP-CIDR, 121.51.29.194/32, no-resolve
+IP-CIDR, 121.51.29.198/32, no-resolve
+IP-CIDR, 121.51.30.164/31, no-resolve
+IP-CIDR, 122.192.132.178/32, no-resolve
+IP-CIDR, 122.192.132.227/32, no-resolve
+IP-CIDR, 122.224.48.129/32, no-resolve
+IP-CIDR, 123.12.214.228/32, no-resolve
+IP-CIDR, 123.125.2.83/32, no-resolve
+IP-CIDR, 123.148.115.18/32, no-resolve
+IP-CIDR, 123.148.115.25/32, no-resolve
+IP-CIDR, 123.148.115.30/32, no-resolve
+IP-CIDR, 123.148.115.38/32, no-resolve
+IP-CIDR, 123.148.115.46/32, no-resolve
+IP-CIDR, 123.148.115.50/31, no-resolve
+IP-CIDR, 123.148.115.151/32, no-resolve
+IP-CIDR, 123.148.115.160/32, no-resolve
+IP-CIDR, 123.148.115.168/32, no-resolve
+IP-CIDR, 123.148.115.171/32, no-resolve
+IP-CIDR, 123.148.115.214/32, no-resolve
+IP-CIDR, 123.148.115.216/32, no-resolve
+IP-CIDR, 123.148.115.226/31, no-resolve
+IP-CIDR, 123.148.115.228/31, no-resolve
+IP-CIDR, 123.148.115.231/32, no-resolve
+IP-CIDR, 123.148.116.15/32, no-resolve
+IP-CIDR, 123.151.48.171/32, no-resolve
+IP-CIDR, 123.157.22.158/32, no-resolve
+IP-CIDR, 123.157.237.102/32, no-resolve
+IP-CIDR, 123.157.241.6/32, no-resolve
+IP-CIDR, 123.184.52.34/32, no-resolve
+IP-CIDR, 123.234.2.103/32, no-resolve
+IP-CIDR, 124.95.180.54/32, no-resolve
+IP-CIDR, 124.160.24.122/32, no-resolve
+IP-CIDR, 129.226.1.35/32, no-resolve
+IP-CIDR, 140.207.56.91/32, no-resolve
+IP-CIDR, 140.207.121.145/32, no-resolve
+IP-CIDR, 140.249.64.107/32, no-resolve
+IP-CIDR, 153.0.229.35/32, no-resolve
+IP-CIDR, 153.3.235.17/32, no-resolve
+IP-CIDR, 153.3.235.19/32, no-resolve
+IP-CIDR, 153.3.235.78/32, no-resolve
+IP-CIDR, 157.148.36.22/32, no-resolve
+IP-CIDR, 157.148.48.223/32, no-resolve
+IP-CIDR, 157.148.48.225/32, no-resolve
+IP-CIDR, 157.148.49.66/32, no-resolve
+IP-CIDR, 157.148.49.105/32, no-resolve
+IP-CIDR, 157.148.59.148/32, no-resolve
+IP-CIDR, 157.148.59.238/31, no-resolve
+IP-CIDR, 157.148.61.140/32, no-resolve
+IP-CIDR, 157.148.61.213/32, no-resolve
+IP-CIDR, 157.148.61.231/32, no-resolve
+IP-CIDR, 157.148.61.240/32, no-resolve
+IP-CIDR, 157.148.62.140/32, no-resolve
+IP-CIDR, 157.148.62.186/32, no-resolve
+IP-CIDR, 157.148.62.201/32, no-resolve
+IP-CIDR, 157.148.62.239/32, no-resolve
+IP-CIDR, 157.148.77.189/32, no-resolve
+IP-CIDR, 157.255.131.101/32, no-resolve
+IP-CIDR, 157.255.191.46/32, no-resolve
+IP-CIDR, 157.255.191.75/32, no-resolve
+IP-CIDR, 157.255.191.88/31, no-resolve
+IP-CIDR, 157.255.203.32/32, no-resolve
+IP-CIDR, 157.255.203.110/32, no-resolve
+IP-CIDR, 157.255.209.167/32, no-resolve
+IP-CIDR, 157.255.209.219/32, no-resolve
+IP-CIDR, 157.255.209.247/32, no-resolve
+IP-CIDR, 157.255.209.248/32, no-resolve
+IP-CIDR, 171.43.246.176/32, no-resolve
+IP-CIDR, 171.43.246.230/32, no-resolve
+IP-CIDR, 171.43.246.233/32, no-resolve
+IP-CIDR, 171.43.247.199/32, no-resolve
+IP-CIDR, 175.6.84.96/32, no-resolve
+IP-CIDR, 180.153.201.124/32, no-resolve
+IP-CIDR, 183.47.118.145/32, no-resolve
+IP-CIDR, 183.47.118.206/32, no-resolve
+IP-CIDR, 183.47.118.249/32, no-resolve
+IP-CIDR, 183.47.121.90/32, no-resolve
+IP-CIDR, 183.47.121.104/32, no-resolve
+IP-CIDR, 183.47.122.25/32, no-resolve
+IP-CIDR, 183.47.124.77/32, no-resolve
+IP-CIDR, 183.60.8.218/32, no-resolve
+IP-CIDR, 183.61.35.147/32, no-resolve
+IP-CIDR, 183.61.36.235/32, no-resolve
+IP-CIDR, 183.131.183.86/32, no-resolve
+IP-CIDR, 183.131.183.127/32, no-resolve
+IP-CIDR, 183.134.42.152/32, no-resolve
+IP-CIDR, 183.134.53.165/32, no-resolve
+IP-CIDR, 183.134.53.215/32, no-resolve
+IP-CIDR, 211.91.65.27/32, no-resolve
+IP-CIDR, 211.141.73.38/32, no-resolve
+IP-CIDR, 219.148.150.222/32, no-resolve
+IP-CIDR, 220.196.154.84/32, no-resolve
+IP-CIDR, 220.196.157.90/32, no-resolve
+IP-CIDR, 221.12.114.2/32, no-resolve
+IP-CIDR, 223.109.148.130/32, no-resolve
+IP-CIDR, 223.109.148.141/32, no-resolve
+IP-CIDR6, 2000::/128, no-resolve
+IP-CIDR6, 2408:80f1:21:3007::12a/128, no-resolve
+IP-CIDR6, 2408:8756:f50:100b::30/128, no-resolve
+IP-CIDR6, 2408:8756:3af0:300c::13/128, no-resolve
+IP-CIDR6, 240e:f7:a070:404:15::/128, no-resolve
+IP-CIDR6, 240e:ff:f100:fb::11f/128, no-resolve
+IP-CIDR6, 240e:ff:f100:100e::7/128, no-resolve
+IP-CIDR6, 240e:ff:f100:101d::8f/128, no-resolve
+IP-CIDR6, 240e:ff:f100:5005::1d/128, no-resolve
+IP-CIDR6, 240e:964:ea05:35::21/128, no-resolve
+IP-CIDR6, 240e:97c:2f:1004::2c/128, no-resolve
+IP-CIDR6, 240e:97c:2f:2003::1e/128, no-resolve
+IP-CIDR6, 240e:97c:2f:3046::21/128, no-resolve
+IP-CIDR6, 240e:97c:2f:3047::5/128, no-resolve
+IP-CIDR6, 240e:97c:2f:3051::22/128, no-resolve
+IP-CIDR6, 240e:97c:2f:4003::b/128, no-resolve
+IP-CIDR6, 240e:97c:2f:7eda::4e/128, no-resolve
+IP-CIDR6, 240e:97c:2f:7edb::9a/128, no-resolve
